@@ -1,0 +1,14 @@
+{
+  "name": "lumen-store-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "فروشگاه مفهومی فارسی آثار دیجیتال با سبد خرید محلی و دادهٔ نمونه؛ بدون پرداخت یا سفارش واقعی.",
+  "author": "Mohammad Matin Kharazmi",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
